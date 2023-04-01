@@ -1,0 +1,5 @@
+print("=======================================")
+print("Nama : Apriyanto Dwi Herlambang")
+print("Kelas : 17.1A.26")
+print("Jurusan : Teknologi Informasi")
+print("=======================================")
